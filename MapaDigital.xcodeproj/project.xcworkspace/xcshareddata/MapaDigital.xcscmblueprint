@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "9241224CED679741B88DEF2EF1A2FC95E854270C",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "5BB93ED50FA2CD74FA78A3D1580B6138B4BD01A7" : 0,
+    "9241224CED679741B88DEF2EF1A2FC95E854270C" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "87CDF642-33C5-4655-B5D7-029DFBA06729",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "5BB93ED50FA2CD74FA78A3D1580B6138B4BD01A7" : "",
+    "9241224CED679741B88DEF2EF1A2FC95E854270C" : "MapaDigital\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "MapaDigital",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "MapaDigital.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/LexLoki\/GuanabaraStageBuilder",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "5BB93ED50FA2CD74FA78A3D1580B6138B4BD01A7"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/LexLoki\/MapaDigital.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "9241224CED679741B88DEF2EF1A2FC95E854270C"
+    }
+  ]
+}
